@@ -1,10 +1,10 @@
 # RNASeqSimulationMethods
 
-1 Semi-parametric simulation
+Semi-parametric simulation:
+
 The SPsimSeq simulation procedure involves two major steps: (1) estimate the probability distributions for the observed gene expression levels in a real RNA-seq dataset (bulk or single-cell), and (2) simulate new gene expression levels from the estimated distributions.
 
 We use SPsimSeq to simulate bulk RNA-seq data used in Shahraz et al. (2020). Briefly, 12 NOX-2 knock-out (KO) mice were used in this RNA-Seq experiment. The 12 mice in the genotype (KO) were randomly assigned to one of two treatment groups (PBS control or LPS challenge), with six mice in each group. 
-
 
 Simulate bulk RNA-seq data with the following features:
 
